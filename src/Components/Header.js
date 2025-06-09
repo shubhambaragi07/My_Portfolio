@@ -3,11 +3,11 @@ import React, { Component } from 'react'
 class Header extends Component {
   render() {
     if (this.props.data) {
-      var firstName = this.props.data.firstName
+      // var firstName = this.props.data.firstName
       var name = this.props.data.name
       var occupation = this.props.data.occupation
       var description = this.props.data.description
-      var city = this.props.data.address.city
+      // var city = this.props.data.address.city
       var networks = this.props.data.social.map(function (network) {
         return (
           <li key={network.name}>
