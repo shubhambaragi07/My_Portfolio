@@ -1,0 +1,120 @@
+ {
+  "main": {
+    "firstName": "Shubham",
+    "name": "Shubham",
+    "phone":"8618810264",
+    "occupation": "Front-end Developer",
+     "description": "I enjoy exploring different areas of front-end development and have a strong passion for building responsive, user-friendly web applications. I am always eager to learn new technologies and improve my skills to create better digital experiences.",
+    "image": "profile.jpg",
+    "bio": "I am a passionate Front-End Developer with a strong focus on creating dynamic, responsive, and user-friendly web applications. I specialize in building modern interfaces using technologies like AngularJS, React.js, HTML5, CSS3, JavaScript, TailwindCSS, and Bootstrap. With a keen eye for design and detail, I enjoy transforming ideas into seamless digital experiences while maintaining best practices in code quality, performance, and accessibility. I’m always excited to learn new technologies, enhance user experience, and bring creative concepts to life through clean, efficient front-end code.",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "shubbusb@gmail.com",
+    "address": {
+      "city": "India",
+      "state": "Karnataka"
+    },
+    "website": "https://teamtreehouse.com/geraldtorres",
+    "resumedownload": "https://drive.google.com/file/d/1M4N2WuqjiLevpt9dPMyrhxZw5cQnjoaz/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/shubham-baragi-52b493273/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/shubhambaragi07",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I am well-versed in using React.js and AngularJS as my main front-end technologies, along with expertise in HTML, CSS, JavaScript, Tailwind CSS, and Bootstrap to build responsive and modern web applications.",
+    "education": [
+      {
+        "school": "Jain College of Engineering, Belagavi",
+        "degree": "Bachelors of Engineering in Mechanical Engineering",
+        "graduated": "June 2023",
+        "description": "Graduated with First-Class"
+      },
+      {
+        "school": "SJPN Trust's Polytechnic, Nidasoshi",
+        "degree": "Diploma in Mechanical Engineering",
+        "graduated": "Aug 2020",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Agathsya Technologies PVT,LTD",
+        "location": "Bengalore",
+        "title": "Associate Software Engineer",
+        "years": "Feb 2025 - Apr 2025",
+        "description": "Built responsive UI components using AngularJS and Tailwind CSS, ensuring design consistency. Integrated data from RESTful APIs to enhance user experience and collaborated with designers via Figma to deliver pixel-perfect UIs, reducing design-to-development time by 30%."
+      },
+      {
+        "company": "Agathsya Technologies PVT,LTD ",
+        "location": "Bengalore",
+        "title": "Trainee Software Engineer",
+        "years": "Nav 2024 - Jan 2025",
+        "description": "Gained strong foundational knowledge of AngularJS, working with Components, Directives, Route Guards, Pipes, and lifecycle hooks. Built responsive interfaces using Angular Material and styled layouts with Tailwind CSS. Developed reactive forms with validation for efficient user input handling, and maintained code stability through version control with Bitbucket."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Angular JS",
+        "level": "90%"
+      },
+      {
+        "name": "React-JS",
+        "level": "70%"
+      },
+      {
+        "name": "Tailwind-CSS",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "85%"
+      },
+      {
+        "name": "HTML5",
+        "level": "100%"
+      },
+      {
+        "name": "CSS3",
+        "level": "100%"
+      },
+      {
+        "name": "BootStrap-5",
+        "level": "70%"
+      },
+      {
+        "name": "MY-SQL",
+        "level": "60%"
+      }
+     
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text":"Clean code always looks like it was written by someone who cares.",
+        "user": " Robert C. Martin"
+      },
+      {
+        "text": "Programming is the art of algorithm design and the craft of debugging errant code",
+        "user": "Ellen Ullman"
+      },
+      {
+        "text": "If he can clap a website together as fast as them cheeks, mans got skill",
+        "user": "Nathan Patton"
+      }
+    ]
+  }
+}
